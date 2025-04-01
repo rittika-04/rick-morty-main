@@ -1,3 +1,4 @@
+import Api from '../services/Api';
 
 
 // production site : https://67a1b9f6a019bb86ffce74d5--effervescent-concha-4cf990.netlify.app/
@@ -18,7 +19,6 @@ export const fetchData = async (text, page) => {
         return { results: [], info: { pages: 1 } }; // ✅ Safe fallback
     }
 };
-
 
 
 
