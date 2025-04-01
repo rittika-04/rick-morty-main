@@ -63,7 +63,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment][(https://rick-morty-three-gules.vercel.app/)]
+This section has moved here: [(https://rick-morty-three-gules.vercel.app/)]
 
 ### `npm run build` fails to minify
 
